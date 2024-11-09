@@ -1,5 +1,5 @@
 # Hi there, my name is Liza! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="65">
-#### I am a student at <a href="https://www.bsuir.by/">BSUIR  </a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="20">
+#### I am a student of <a href="https://www.bsuir.by/">BSUIR  </a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="20">
 
 ## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40"> My socials
 [![Instagram](https://img.shields.io/badge/-Instagram-090909?style=for-the-badge&logo=instagram&logoColor=B4068E)](https://www.instagram.com/li.za.123/)

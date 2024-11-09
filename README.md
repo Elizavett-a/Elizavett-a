@@ -15,7 +15,7 @@
 [![Lizik's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=Lizik52&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/Lizik52/github-readme-stats#gh-light-mode-only)
 
 [![Lizik's github activity graph stats-Dark](https://github-readme-activity-graph.vercel.app/graph?username=Lizik52&theme=dracula#gh-dark-mode-only)](https://github.com/Lizik52/github-readme-activity-graph#gh-dark-mode-only)
-[![Lizik's github activity graph stats-Light](https://github-readme-activity-graph.vercel.app/graph?username=Lizik52&theme=react#gh-light-mode-only)](https://github.com/Lizik52/github-readme-activity-graph#gh-light-mode-only)
+[![Lizik's github activity graph stats-Light](https://github-readme-activity-graph.vercel.app/graph?username=Lizik52&theme=github-light#gh-light-mode-only)](https://github.com/Lizik52/github-readme-activity-graph#gh-light-mode-only)
 
 [![Lizik stats-Dark](https://github-profile-trophy.vercel.app/?username=Lizik52&theme=onedark#gh-dark-mode-only)](https://github.com/Lizik52/github-profile-trophy#gh-dark-mode-only)
 [![Lizik stats-Light](https://github-profile-trophy.vercel.app/?username=Lizik52&theme=default#gh-light-mode-only)](https://github.com/Lizik52/github-profile-trophy#gh-light-mode-only)

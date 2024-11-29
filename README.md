@@ -5,10 +5,12 @@
 [![Instagram stats-Dark](https://img.shields.io/badge/-Instagram-090909?style=for-the-badge&logo=instagram&logoColor=B4068E#gh-dark-mode-only)](https://www.instagram.com/li.za.123/#gh-dark-mode-only)
 [![Telegram stats-Dark](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=27A0D9#gh-dark-mode-only)](https://t.me/lizik_2707#gh-dark-mode-only)
 [![Vk stats-Dark](https://img.shields.io/badge/-Vk-090909?style=for-the-badge&logo=Vk&logoColor=4F7DB0#gh-dark-mode-only)](https://vk.com/id732241148#gh-dark-mode-only)
+[![LinkedIn stats-Dark](https://img.shields.io/badge/-LinkedIn-090909?style=for-the-badge&logo=LinkedIn&logoColor=4F7DB0#gh-dark-mode-only)](https://www.linkedin.com/in/елизавета-сучёк-1b08b0337#gh-dark-mode-only)
 
 [![Instagram stats-Light](https://img.shields.io/badge/-Instagram-FFF?style=for-the-badge&logo=instagram&logoColor=B4068E#gh-light-mode-only)](https://www.instagram.com/li.za.123/#gh-light-mode-only)
 [![Telegram stats-Light](https://img.shields.io/badge/-Telegram-FFF?style=for-the-badge&logo=telegram&logoColor=27A0D9#gh-light-mode-only)](https://t.me/lizik_2707#gh-light-mode-only)
 [![Vk stats-Light](https://img.shields.io/badge/-Vk-FFF?style=for-the-badge&logo=Vk&logoColor=4F7DB0#gh-light-mode-only)](https://vk.com/id732241148#gh-light-mode-only)
+[![LinkedIn stats-Light](https://img.shields.io/badge/-LinkedIn-090909?style=for-the-badge&logo=LinkedIn&logoColor=4F7DB0#gh-light-mode-only)](https://www.linkedin.com/in/елизавета-сучёк-1b08b0337#gh-light-mode-only)
 
 ## <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> Github Stats
 [![Lizik's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=Lizik52&show_icons=true&theme=dracula#gh-dark-mode-only)](https://github.com/Lizik52/github-readme-stats#gh-dark-mode-only)

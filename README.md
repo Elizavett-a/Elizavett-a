@@ -12,15 +12,21 @@
 [![Vk stats-Light](https://img.shields.io/badge/-Vk-FFF?style=for-the-badge&logo=Vk&logoColor=4F7DB0#gh-light-mode-only)](https://vk.com/id732241148#gh-light-mode-only)
 [![LinkedIn stats-Light](https://img.shields.io/badge/-LinkedIn-FFF?style=for-the-badge&logo=LinkedIn&logoColor=3399CC#gh-light-mode-only)](https://www.linkedin.com/in/елизавета-сучёк-1b08b0337#gh-light-mode-only)
 
-## <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> Github Stats
+<details>
+ <summary> <h3> <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> Github Stats </h3> </summary>
+  
 [![Lizik's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=Lizik52&show_icons=true&theme=dracula#gh-dark-mode-only)](https://github.com/Lizik52/github-readme-stats#gh-dark-mode-only)
 [![Lizik's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=Lizik52&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/Lizik52/github-readme-stats#gh-light-mode-only)
+
+[![Lizik stats-Dark](https://github-profile-trophy.vercel.app/?username=Lizik52&theme=onedark#gh-dark-mode-only)](https://github.com/Lizik52/github-profile-trophy#gh-dark-mode-only)
+[![Lizik stats-Light](https://github-profile-trophy.vercel.app/?username=Lizik52&theme=default#gh-light-mode-only)](https://github.com/Lizik52/github-profile-trophy#gh-light-mode-only)
+
+</details>
 
 [![Lizik's github activity graph stats-Dark](https://github-readme-activity-graph.vercel.app/graph?username=Lizik52&theme=dracula#gh-dark-mode-only)](https://github.com/Lizik52/github-readme-activity-graph#gh-dark-mode-only)
 [![Lizik's github activity graph stats-Light](https://github-readme-activity-graph.vercel.app/graph?username=Lizik52&theme=github-light#gh-light-mode-only)](https://github.com/Lizik52/github-readme-activity-graph#gh-light-mode-only)
 
-[![Lizik stats-Dark](https://github-profile-trophy.vercel.app/?username=Lizik52&theme=onedark#gh-dark-mode-only)](https://github.com/Lizik52/github-profile-trophy#gh-dark-mode-only)
-[![Lizik stats-Light](https://github-profile-trophy.vercel.app/?username=Lizik52&theme=default#gh-light-mode-only)](https://github.com/Lizik52/github-profile-trophy#gh-light-mode-only)
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Lizik52" alt="Lizik" />
+  
 </p>

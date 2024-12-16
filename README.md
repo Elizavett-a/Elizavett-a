@@ -13,8 +13,8 @@
 [![LinkedIn stats-Light](https://img.shields.io/badge/-LinkedIn-FFF?style=for-the-badge&logo=LinkedIn&logoColor=3399CC#gh-light-mode-only)](https://www.linkedin.com/in/елизавета-сучёк-1b08b0337#gh-light-mode-only)
 
 <details>
- <summary> <h3> <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> Github Stats </h3> </summary>
-  
+ <summary> <h2> <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> Github Stats </h2> </summary>
+ 
 [![Lizik's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=Lizik52&show_icons=true&theme=dracula#gh-dark-mode-only)](https://github.com/Lizik52/github-readme-stats#gh-dark-mode-only)
 [![Lizik's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=Lizik52&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/Lizik52/github-readme-stats#gh-light-mode-only)
 

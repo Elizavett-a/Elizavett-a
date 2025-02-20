@@ -26,7 +26,7 @@
 [![Lizik's github activity graph stats-Dark](https://github-readme-activity-graph.vercel.app/graph?username=Elizavett-a&theme=dracula#gh-dark-mode-only)](https://github.com/Lizik52/github-readme-activity-graph#gh-dark-mode-only)
 [![Lizik's github activity graph stats-Light](https://github-readme-activity-graph.vercel.app/graph?username=Elizavett-a&theme=github-light#gh-light-mode-only)](https://github.com/Lizik52/github-readme-activity-graph#gh-light-mode-only)
 
-<p align="center">
+<!--<p align="center">
   <img src="https://komarev.com/ghpvc/?username=Elizavett-a" alt="Lizik" />
   
-</p>
+</p>-->

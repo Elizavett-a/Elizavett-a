@@ -1,5 +1,5 @@
 # Hi there, my name is Liza! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="65">
-#### I am a student of <a href="https://www.bsuir.by/">BSUIR  </a> <!-- <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2loajg3eThmdXRxNWpmY2k5bnk0ODhueXBrMDQ2bDllaXk1eDdyNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/puiJGJ5TuGQcRenHji/giphy.gif" width="40"> -->
+#### I am a student of <a href="https://www.bsuir.by/">BSUIR  </a> <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExaTZ1MHR0eWV3NjdlYzIyYjJiMHhyMDFsM3A2ZTFtMG5odWo1anl1eSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/HinY3hLRk25NqgZpKr/giphy.gif" width="40">
 
 ## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40"> My socials
 [![Instagram stats-Dark](https://img.shields.io/badge/-Instagram-090909?style=for-the-badge&logo=instagram&logoColor=B4068E#gh-dark-mode-only)](https://www.instagram.com/li.za.123/#gh-dark-mode-only)

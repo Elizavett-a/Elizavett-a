@@ -23,10 +23,35 @@
 
 </details>
 
-[![Lizik's github activity graph stats-Dark](https://github-readme-activity-graph.vercel.app/graph?username=Elizavett-a&theme=dracula#gh-dark-mode-only)](https://github.com/Elizavett-a/github-readme-activity-graph#gh-dark-mode-only)
-[![Lizik's github activity graph stats-Light](https://github-readme-activity-graph.vercel.app/graph?username=Elizavett-a&theme=github-light#gh-light-mode-only)](https://github.com/Elizavett-a/github-readme-activity-graph#gh-light-mode-only)
-
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Elizavett-a" alt="Lizik" />
   
 </p>-->
+<div>
+    <h2><img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExaTZ1MHR0eWV3NjdlYzIyYjJiMHhyMDFsM3A2ZTFtMG5odWo1anl1eSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/HinY3hLRk25NqgZpKr/giphy.gif" width="40"> Badges</h2>
+    <details>
+        <summary>LeetCode</summary>
+        <a href="https://leetcode.com/u/li_za_123/">
+            <br/>
+            <picture>
+                <source srcset="https://leetcard.jacoblin.cool/li_za_123?animation=true&ext=activity" media="(prefers-color-scheme: dark)">
+                <source srcset="https://leetcard.jacoblin.cool/li_za_123?animation=true&ext=activity&theme=light" media="(prefers-color-scheme: light)">
+                <img src="https://leetcard.jacoblin.cool/li_za_123?animation=true&ext=activity" alt="LeetCode Stats" />
+            </picture>
+        </a>
+    </details>      
+    <details>
+        <summary>CodeWars</summary>
+        <a href="https://www.codewars.com/users/Lizа%20Liza">
+            <br/>
+            <picture>
+                <source srcset="https://www.codewars.com/users/Lizа%20Liza/badges/large?theme=dark" media="(prefers-color-scheme: dark)">
+                <source srcset="https://www.codewars.com/users/Lizа%20Liza/badges/large?theme=light" media="(prefers-color-scheme: light)">
+                <img src="https://www.codewars.com/users/Lizа%20Liza/badges/large" alt="CodeWars Badge" />
+            </picture>
+        </a>
+    </details>
+</div>
+
+[![Lizik's github activity graph stats-Dark](https://github-readme-activity-graph.vercel.app/graph?username=Elizavett-a&theme=dracula#gh-dark-mode-only)](https://github.com/Elizavett-a/github-readme-activity-graph#gh-dark-mode-only)
+[![Lizik's github activity graph stats-Light](https://github-readme-activity-graph.vercel.app/graph?username=Elizavett-a&theme=github-light#gh-light-mode-only)](https://github.com/Elizavett-a/github-readme-activity-graph#gh-light-mode-only)

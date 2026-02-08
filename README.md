@@ -11,7 +11,7 @@
 [![Telegram stats-Light](https://img.shields.io/badge/-Telegram-FFF?style=for-the-badge&logo=telegram&logoColor=27A0D9#gh-light-mode-only)](https://t.me/lizik_2707#gh-light-mode-only)
 [![Vk stats-Light](https://img.shields.io/badge/-Vk-FFF?style=for-the-badge&logo=Vk&logoColor=4F7DB0#gh-light-mode-only)](https://vk.com/id732241148#gh-light-mode-only)
 [![LinkedIn stats-Light](https://img.shields.io/badge/-LinkedIn-FFF?style=for-the-badge&logo=LinkedIn&logoColor=3399CC#gh-light-mode-only)](https://www.linkedin.com/in/елизавета-сучёк-1b08b0337#gh-light-mode-only)
-
+<!--
 <details>
  <summary> <h2> <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> Github Stats </h2> </summary>
  
@@ -29,4 +29,4 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Elizavett-a" alt="Lizik" />
   
-</p>
+</p>-->

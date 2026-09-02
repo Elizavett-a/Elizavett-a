@@ -53,5 +53,5 @@
     </details>
 </div>
 
-[![Lizik's github activity graph stats-Dark](https://github-readme-activity-graph.vercel.app/graph?username=Elizavett-a&theme=dracula#gh-dark-mode-only)](https://github.com/Elizavett-a/github-readme-activity-graph#gh-dark-mode-only)
-[![Lizik's github activity graph stats-Light](https://github-readme-activity-graph.vercel.app/graph?username=Elizavett-a&theme=github-light#gh-light-mode-only)](https://github.com/Elizavett-a/github-readme-activity-graph#gh-light-mode-only)
+<!--[![Lizik's github activity graph stats-Dark](https://github-readme-activity-graph.vercel.app/graph?username=Elizavett-a&theme=dracula#gh-dark-mode-only)](https://github.com/Elizavett-a/github-readme-activity-graph#gh-dark-mode-only)
+[![Lizik's github activity graph stats-Light](https://github-readme-activity-graph.vercel.app/graph?username=Elizavett-a&theme=github-light#gh-light-mode-only)](https://github.com/Elizavett-a/github-readme-activity-graph#gh-light-mode-only)-->
